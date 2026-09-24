@@ -3,9 +3,11 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 📖 / Sobre mí
 
-Actualmente me encuentro cursando el ciclo formativo de **DAW**. Me apasiona el desarrollo *frontend*, aunque también disfruto trabajando en la parte del servidor. Anteriormente estudié ~~diseño gráfico~~, pero descubrí que mi verdadera vocación es la programación web.
+Estudio 2º de Desarrollo de Aplicaciones Web en el ies Abdera. Lo que mas disfruto hacer es sin duda programar y el desarrollo web. Me gusta enfrentarme a problemas, pensar en como estructurarlos y buscar una solución que tenga sentido.
+
+También me interesa bastante la parte visual. Cuando hago una página no me conformo con que simplemente haga su función, sino que me gusta ir puliéndola hasta que consiga un resultado que sea muy agradable de usar y de ver.
 
 Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales como `git status` o `ls -la` desde la terminal.
 
