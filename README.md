@@ -148,7 +148,7 @@ Este ejemplo específicamente es de cuando empezamos a aprender sobre las clases
 
 ---
 
-## 📫 Contacto
+## 📫 / Contacto
 
 Puedes encontrarme en:
 
